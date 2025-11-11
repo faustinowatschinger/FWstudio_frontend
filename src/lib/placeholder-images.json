@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Dashboard for a financial services company, providing real-time analytics and data visualization to drive informed decision-making.",
+      "imageUrl": "https://images.unsplash.com/photo-1610913721979-b20ede600e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXNoYm9hcmQlMjBhbmFseXRpY3N8ZW58MHx8fHwxNzYyODQ2NTQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard analytics"
+    },
+    {
+      "id": "project-2",
+      "description": "A complete e-commerce platform optimization that led to a 40% increase in conversion rates and improved user experience.",
+      "imageUrl": "https://images.unsplash.com/photo-1600009723611-7473882201fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlY29tbWVyY2UlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NjI3ODI2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce shopping"
+    },
+    {
+      "id": "project-3",
+      "description": "An automated workflow solution for a major logistics company, reducing manual entry by 95% and improving delivery times.",
+      "imageUrl": "https://images.unsplash.com/photo-1759143545924-beb85b33c0f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhdXRvbWF0aW9uJTIwd29ya2Zsb3d8ZW58MHx8fHwxNzYyNzM4NDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "automation workflow"
+    }
+  ]
+}
