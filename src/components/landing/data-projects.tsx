@@ -13,7 +13,7 @@ export type Project = {
 export const projects: Project[] = [
   {
     id: 'proyecto-1',
-    title: '3W Sistema de monitorio para frigoríficos',
+    title: '3W Sistema de monitoreo para frigoríficos',
     description:
       `3W realizaba mantenimientos en plantas frigoríficas, pero días después algunos clientes reclamaban fallas en los equipos y la empresa no tenía cómo demostrar que, al retirarse, todo funcionaba correctamente.
 Ese problema de falta de trazabilidad y evidencia técnica generaba discusiones y pérdida de confianza.`,

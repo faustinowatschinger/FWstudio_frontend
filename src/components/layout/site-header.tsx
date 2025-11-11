@@ -12,6 +12,7 @@ import { FWLogo } from '@/components/logo';
 
 const navLinks = [
   { href: '/#solutions', label: 'Soluciones' },
+  { href: '/#about', label: 'Sobre Nosotros' },
   { href: '/#projects', label: 'Proyectos' },
 ];
 
